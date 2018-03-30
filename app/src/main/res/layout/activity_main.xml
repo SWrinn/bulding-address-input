@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.marko.tester.MainActivity">
+
+    <TextView
+        android:id="@+id/textView_currentLocation"
+        android:layout_width="272dp"
+        android:layout_height="64dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="100dp"
+        android:text="Select input type for current location"
+        android:textAlignment="center"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_GPS"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:background="@color/colorButton2"
+        android:elevation="10dp"
+        android:onClick="openMapActivity"
+        android:text="@string/gps"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.21"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView_currentLocation" />
+
+    <Button
+        android:id="@+id/button_text"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_marginStart="8dp"
+        android:background="@android:color/holo_red_dark"
+        android:elevation="10dp"
+        android:onClick="sendMessage2"
+        android:text="@string/text"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/button_GPS"
+        app:layout_constraintStart_toEndOf="@+id/button_GPS" />
+
+    <Button
+        android:id="@+id/button_voice"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_marginStart="8dp"
+        android:background="@color/colorPrimary"
+        android:elevation="10dp"
+        android:onClick="sendMessage3"
+        android:text="@string/voice"
+        android:textColor="@android:color/background_light"
+        android:textSize="24sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/button_QR"
+        app:layout_constraintStart_toEndOf="@+id/button_QR" />
+
+    <Button
+        android:id="@+id/button_QR"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@color/colorButton"
+        android:elevation="10dp"
+        android:onClick="sendMessage1"
+        android:text="@string/QR"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.201"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_GPS" />
+
+
+</android.support.constraint.ConstraintLayout>
+

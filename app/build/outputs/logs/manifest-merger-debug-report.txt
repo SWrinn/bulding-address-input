@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:2:1-51:12
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\0ea9ebc82b5fb218a704d7a089b0c022\AndroidManifest.xml:2:1-5:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\29920ea1a316cdb30196d288130a56b2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c817191eee007462f1b3d620c63a885b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\258ee5375e49a9cde7f3c555afa6faf5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\953ace8ac01d5f261ca439faddd864fc\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d39ad0f772bc6886b75a6e95a5dd0305\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\180971ff4706d1abf061b4a82d84aa43\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\64a196fe1283fd2e5dbff99886fefd98\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6f8f9413eae43b11fd3ce00e76ca969c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\22aa87bddd8c255bd259df2558fdb9d4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\25c9a8d1691f908d27b46f3ed9fab7d1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cf69a53a877880118795b387c8deb42d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\db94451104673458d591ef8a69ce8c86\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d4c661f8698dfbfb80ad9000bd4ce6f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\75f5a314ef753d1bc939d6327cb2a540\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d22299d826d25bea48825334b0fc29fa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4c6ffe570ce42fb478158e7351272582\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c04e73d46c7fce41fe995eb62d26df77\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f42ca1b960a2e81f9d13f8754626c166\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\debug\AndroidManifest.xml:1:1-6:12
+INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\debug\AndroidManifest.xml:1:1-6:12
+INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\debug\AndroidManifest.xml:1:1-6:12
+	package
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:2:1-51:12
+		INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:15:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\953ace8ac01d5f261ca439faddd864fc\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\953ace8ac01d5f261ca439faddd864fc\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:15:22-64
+application
+ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:17:5-49:19
+MERGED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:17:5-49:19
+MERGED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:17:5-49:19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\0ea9ebc82b5fb218a704d7a089b0c022\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\0ea9ebc82b5fb218a704d7a089b0c022\AndroidManifest.xml:4:5-19
+MERGED from [com.android.support:design:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\29920ea1a316cdb30196d288130a56b2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\29920ea1a316cdb30196d288130a56b2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c817191eee007462f1b3d620c63a885b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c817191eee007462f1b3d620c63a885b\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\258ee5375e49a9cde7f3c555afa6faf5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\258ee5375e49a9cde7f3c555afa6faf5\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\953ace8ac01d5f261ca439faddd864fc\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\953ace8ac01d5f261ca439faddd864fc\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d39ad0f772bc6886b75a6e95a5dd0305\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d39ad0f772bc6886b75a6e95a5dd0305\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\180971ff4706d1abf061b4a82d84aa43\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\180971ff4706d1abf061b4a82d84aa43\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\64a196fe1283fd2e5dbff99886fefd98\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\64a196fe1283fd2e5dbff99886fefd98\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6f8f9413eae43b11fd3ce00e76ca969c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6f8f9413eae43b11fd3ce00e76ca969c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\22aa87bddd8c255bd259df2558fdb9d4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\22aa87bddd8c255bd259df2558fdb9d4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\25c9a8d1691f908d27b46f3ed9fab7d1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\25c9a8d1691f908d27b46f3ed9fab7d1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cf69a53a877880118795b387c8deb42d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cf69a53a877880118795b387c8deb42d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\db94451104673458d591ef8a69ce8c86\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\db94451104673458d591ef8a69ce8c86\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d4c661f8698dfbfb80ad9000bd4ce6f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d4c661f8698dfbfb80ad9000bd4ce6f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\75f5a314ef753d1bc939d6327cb2a540\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\75f5a314ef753d1bc939d6327cb2a540\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d22299d826d25bea48825334b0fc29fa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d22299d826d25bea48825334b0fc29fa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4c6ffe570ce42fb478158e7351272582\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4c6ffe570ce42fb478158e7351272582\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c04e73d46c7fce41fe995eb62d26df77\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c04e73d46c7fce41fe995eb62d26df77\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f42ca1b960a2e81f9d13f8754626c166\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f42ca1b960a2e81f9d13f8754626c166\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:22:9-35
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:20:9-41
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:21:9-54
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:19:9-43
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:23:9-40
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.marko.tester.MainActivity
+ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:24:9-33:20
+	android:label
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:26:13-45
+	android:theme
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:25:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:31:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:42:9-44:55
+	android:value
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:43:13-58
+activity#com.example.marko.tester.MapsActivity
+ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:46:9-48:68
+	android:label
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml:47:13-41
+uses-sdk
+INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\0ea9ebc82b5fb218a704d7a089b0c022\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.4.aar\0ea9ebc82b5fb218a704d7a089b0c022\AndroidManifest.xml:3:5-43
+MERGED from [com.android.support:design:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\29920ea1a316cdb30196d288130a56b2\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\29920ea1a316cdb30196d288130a56b2\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c817191eee007462f1b3d620c63a885b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c817191eee007462f1b3d620c63a885b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\258ee5375e49a9cde7f3c555afa6faf5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\258ee5375e49a9cde7f3c555afa6faf5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\953ace8ac01d5f261ca439faddd864fc\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\953ace8ac01d5f261ca439faddd864fc\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d39ad0f772bc6886b75a6e95a5dd0305\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d39ad0f772bc6886b75a6e95a5dd0305\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\180971ff4706d1abf061b4a82d84aa43\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.4.aar\180971ff4706d1abf061b4a82d84aa43\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\64a196fe1283fd2e5dbff99886fefd98\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\64a196fe1283fd2e5dbff99886fefd98\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6f8f9413eae43b11fd3ce00e76ca969c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6f8f9413eae43b11fd3ce00e76ca969c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\22aa87bddd8c255bd259df2558fdb9d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\22aa87bddd8c255bd259df2558fdb9d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\25c9a8d1691f908d27b46f3ed9fab7d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\25c9a8d1691f908d27b46f3ed9fab7d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cf69a53a877880118795b387c8deb42d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cf69a53a877880118795b387c8deb42d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\db94451104673458d591ef8a69ce8c86\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\db94451104673458d591ef8a69ce8c86\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d4c661f8698dfbfb80ad9000bd4ce6f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d4c661f8698dfbfb80ad9000bd4ce6f\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\75f5a314ef753d1bc939d6327cb2a540\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\75f5a314ef753d1bc939d6327cb2a540\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d22299d826d25bea48825334b0fc29fa\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d22299d826d25bea48825334b0fc29fa\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4c6ffe570ce42fb478158e7351272582\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4c6ffe570ce42fb478158e7351272582\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c04e73d46c7fce41fe995eb62d26df77\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c04e73d46c7fce41fe995eb62d26df77\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f42ca1b960a2e81f9d13f8754626c166\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f42ca1b960a2e81f9d13f8754626c166\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\debug\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\29920ea1a316cdb30196d288130a56b2\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\debug\AndroidManifest.xml
+activity#com.example.marko.tester.AddressActivity
+ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\debug\AndroidManifest.xml:4:9-86
+	android:name
+		ADDED from C:\Users\marko\Documents\GitHub\RachApp\watever\CPS406-NAV\app\src\debug\AndroidManifest.xml:4:19-74
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\29920ea1a316cdb30196d288130a56b2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c817191eee007462f1b3d620c63a885b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\c817191eee007462f1b3d620c63a885b\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6f8f9413eae43b11fd3ce00e76ca969c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6f8f9413eae43b11fd3ce00e76ca969c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\22aa87bddd8c255bd259df2558fdb9d4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\22aa87bddd8c255bd259df2558fdb9d4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\25c9a8d1691f908d27b46f3ed9fab7d1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\25c9a8d1691f908d27b46f3ed9fab7d1\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cf69a53a877880118795b387c8deb42d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cf69a53a877880118795b387c8deb42d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\db94451104673458d591ef8a69ce8c86\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\db94451104673458d591ef8a69ce8c86\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d4c661f8698dfbfb80ad9000bd4ce6f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\8d4c661f8698dfbfb80ad9000bd4ce6f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\75f5a314ef753d1bc939d6327cb2a540\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\75f5a314ef753d1bc939d6327cb2a540\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d22299d826d25bea48825334b0fc29fa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\d22299d826d25bea48825334b0fc29fa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4c6ffe570ce42fb478158e7351272582\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\4c6ffe570ce42fb478158e7351272582\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c04e73d46c7fce41fe995eb62d26df77\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c04e73d46c7fce41fe995eb62d26df77\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\29920ea1a316cdb30196d288130a56b2\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\29920ea1a316cdb30196d288130a56b2\AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\953ace8ac01d5f261ca439faddd864fc\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\953ace8ac01d5f261ca439faddd864fc\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\953ace8ac01d5f261ca439faddd864fc\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\953ace8ac01d5f261ca439faddd864fc\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.4.aar\953ace8ac01d5f261ca439faddd864fc\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d39ad0f772bc6886b75a6e95a5dd0305\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d39ad0f772bc6886b75a6e95a5dd0305\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d39ad0f772bc6886b75a6e95a5dd0305\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.4.aar\d39ad0f772bc6886b75a6e95a5dd0305\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\64a196fe1283fd2e5dbff99886fefd98\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\64a196fe1283fd2e5dbff99886fefd98\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.4.aar\64a196fe1283fd2e5dbff99886fefd98\AndroidManifest.xml:20:20-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f42ca1b960a2e81f9d13f8754626c166\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f42ca1b960a2e81f9d13f8754626c166\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\marko\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\f42ca1b960a2e81f9d13f8754626c166\AndroidManifest.xml:26:13-58
